@@ -1,5 +1,5 @@
-<img align="centert" alt="coding" width="1000" src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/">
-<h1 align="center">✨👋Hi! I'm Kowsigan ✨</h1>
+
+<h1 align="center">Hello Techiesᯓ🌟! I'm Kowsigan.</h1>
 <img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/5d414e93d87fbc253b10c306561b1840/4a70d3dcdbe5345d-fc/s400x600/20390266b38917cfedeb5e56b53a0596701a154f.gifv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kowsiganmv&label=Profile%20views&color=0e75b6&style=flat" alt="kowsiganmv" /> </p>
